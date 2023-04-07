@@ -29,7 +29,7 @@ export const UserLink = styled(Link)`
   border: 3px solid #ffd600;
   border-radius: 5px;
   cursor: pointer;
-  transition: background-color 250ms ease, color 250ms ease;
+  transition: background-color 350ms ease, color 350ms ease;
 
   &:hover,
   &:focus {
@@ -51,7 +51,7 @@ export const LogOutButton = styled.button`
   border: 3px solid #b7012a;
   border-radius: 5px;
   cursor: pointer;
-  transition: background-color 250ms ease, color 250ms ease;
+  transition: background-color 350ms ease, color 350ms ease;
 
   &:hover,
   &:focus {

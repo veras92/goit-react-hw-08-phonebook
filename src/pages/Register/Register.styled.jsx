@@ -94,7 +94,7 @@ export const BackLink = styled(Link)`
   border: none;
   border-radius: 5px;
   cursor: pointer;
-  transition: background-color 250ms ease, color 250ms ease;
+  transition: background-color 350ms ease, color 350ms ease;
 
   &:hover,
   &:focus {
